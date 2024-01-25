@@ -1,4 +1,4 @@
-Recreate iconia Damien Hirst's spot painting using Python and Turtle graphics.
+Recreate iconic Damien Hirst's spot painting using Python and Turtle graphics.
 
 Requirements:
 1. colorgram.py module
