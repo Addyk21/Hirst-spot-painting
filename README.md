@@ -1,4 +1,5 @@
 Recreate iconic Damien Hirst's spot painting using Python and Turtle graphics.
+![Screenshot](https://github.com/Addyk21/Hirst-spot-painting/assets/121149505/977d838f-219d-4bd3-8969-49d69ef94142)
 
 
 
